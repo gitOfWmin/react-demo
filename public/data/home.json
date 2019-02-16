@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "src": "/images/user/user-logo-003.png",
+    "username": "李振亚同学 ",
+    "rank": "Lv.16",
+    "place": "芝士学院",
+    "time": 1541548800,
+    "content": "<em>#压力多一点，动力就会多一点#</em>自考很难，要坚持下去每天多努力一点多学习一点以后的路就好走一点同学继续努力吧，下周还有课继续复习吧",
+    "imgSrc": ["/images/ad/ad-user-006.jpg","/images/ad/ad-user-007.jpg","/images/ad/ad-user-008.jpg"],
+    "share": 2324,
+    "comment": 799,
+    "favour": 802
+  },{
+    "id": 2,
+    "src": "/images/user/user-logo-004.png",
+    "username": "小寒自考本",
+    "rank": "Lv.10",
+    "place": "芝士学院",
+    "time": 1538870400,
+    "content": "<em>#优秀是一种习惯，自考不息#</em>自考很难，要坚持下去每天多努力一点多学习一点以后的路就好走一点同学继续努力吧，下周还有课继续复习吧",
+    "imgSrc": ["/images/ad/ad-user-009.jpg","/images/ad/ad-user-002.jpg","/images/ad/ad-user-003.jpg","/images/ad/ad-user-004.jpg","/images/ad/ad-user-005.jpg"],
+    "share": 834,
+    "comment": 389,
+    "favour": 952
+  },{
+    "id": 3,
+    "src": "/images/user/user-logo-003.png",
+    "username": "睿博学院潇潇",
+    "rank": "Lv.12",
+    "place": "睿博学院",
+    "time": 1538870400,
+    "content": "<em>#优秀是一种习惯，自考不息#</em>自考很难，要坚持下去每天多努力一点多学习一点以后的路就好走一点同学继续努力吧，下周还有课继续复习吧",
+    "imgSrc": ["/images/ad/ad-user-001.jpg","/images/ad/ad-user-002.jpg","/images/ad/ad-user-003.jpg","/images/ad/ad-user-004.jpg","/images/ad/ad-user-005.jpg"],
+    "share": 664,
+    "comment":889,
+    "favour": 772
+  },{
+    "id": 4,
+    "src": "/images/user/user-logo-003.png",
+    "username": "李振亚同学 ",
+    "rank": "Lv.16",
+    "place": "芝士学院",
+    "time": 1541548800,
+    "content": "<em>#压力多一点，动力就会多一点#</em>自考很难，要坚持下去每天多努力一点多学习一点以后的路就好走一点同学继续努力吧，下周还有课继续复习吧",
+    "imgSrc": ["/images/ad/ad-user-006.jpg","/images/ad/ad-user-007.jpg","/images/ad/ad-user-008.jpg"],
+    "share": 2324,
+    "comment": 799,
+    "favour": 802
+  },{
+    "id": 5,
+    "src": "/images/user/user-logo-004.png",
+    "username": "小寒自考本",
+    "rank": "Lv.10",
+    "place": "芝士学院",
+    "time": 1538870400,
+    "content": "<em>#优秀是一种习惯，自考不息#</em>自考很难，要坚持下去每天多努力一点多学习一点以后的路就好走一点同学继续努力吧，下周还有课继续复习吧",
+    "imgSrc": ["/images/ad/ad-user-009.jpg","/images/ad/ad-user-002.jpg","/images/ad/ad-user-003.jpg","/images/ad/ad-user-004.jpg","/images/ad/ad-user-005.jpg"],
+    "share": 834,
+    "comment": 389,
+    "favour": 952
+  },{
+    "id": 6,
+    "src": "/images/user/user-logo-003.png",
+    "username": "睿博学院潇潇",
+    "rank": "Lv.12",
+    "place": "睿博学院",
+    "time": 1538870400,
+    "content": "<em>#优秀是一种习惯，自考不息#</em>自考很难，要坚持下去每天多努力一点多学习一点以后的路就好走一点同学继续努力吧，下周还有课继续复习吧",
+    "imgSrc": ["/images/ad/ad-user-001.jpg","/images/ad/ad-user-002.jpg","/images/ad/ad-user-003.jpg","/images/ad/ad-user-004.jpg","/images/ad/ad-user-005.jpg"],
+    "share": 664,
+    "comment":889,
+    "favour": 772
+  }
+]
